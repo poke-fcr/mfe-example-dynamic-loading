@@ -1,0 +1,3 @@
+[submodule "projects/mfe-one"]
+	path = projects/mfe-one
+	url = .\\projects\\mfe-one\\
